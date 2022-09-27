@@ -1,0 +1,11 @@
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Debug\DocumentSpellChecker.csproj.AssemblyReference.cache
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Debug\DocumentSpellChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Debug\DocumentSpellChecker.Form1.resources
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Debug\DocumentSpellChecker.Properties.Resources.resources
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Debug\DocumentSpellChecker.csproj.GenerateResource.cache
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Debug\DocumentSpellChecker.csproj.CoreCompileInputs.cache
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\bin\Debug\DocumentSpellChecker.exe.config
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\bin\Debug\DocumentSpellChecker.exe
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\bin\Debug\DocumentSpellChecker.pdb
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Debug\DocumentSpellChecker.exe
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Debug\DocumentSpellChecker.pdb

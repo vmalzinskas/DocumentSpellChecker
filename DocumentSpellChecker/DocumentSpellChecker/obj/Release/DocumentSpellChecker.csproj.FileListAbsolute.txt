@@ -1,0 +1,15 @@
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\bin\Release\DocumentSpellChecker.exe.config
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\bin\Release\DocumentSpellChecker.exe
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\bin\Release\DocumentSpellChecker.pdb
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.csproj.AssemblyReference.cache
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.Form1.resources
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.Properties.Resources.resources
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.csproj.GenerateResource.cache
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.csproj.CoreCompileInputs.cache
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.exe
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.pdb
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\bin\Release\DocumentSpellChecker.exe.manifest
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\bin\Release\DocumentSpellChecker.application
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.exe.manifest
+C:\Users\vmalz\Desktop\Programing\C++\IntegraDev\DocumentSpellChecker\DocumentSpellChecker\obj\Release\DocumentSpellChecker.application
